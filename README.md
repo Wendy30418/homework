@@ -15,6 +15,6 @@ Strikethrough uses two tildes. ~~Scratch~~ ~~this~~ .
 >> note 2  
 >> note 3  
 ***
-- [] todo list
-- [] 2nd things
+- [ ] todo list
+- [ ] 2nd things
 - ***
