@@ -18,3 +18,14 @@ Strikethrough uses two tildes. ~~Scratch~~ ~~this~~ .
 - [ ] todo list
 - [ ] 2nd things
 - ***
+python code
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+javascript code
+ ```javascript
+var s = "JavaScript syntax highlighting"
+alert(s);
+```
